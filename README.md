@@ -1,7 +1,7 @@
 # Vagrantify
 
 ### What is Vagrantify ?
-This program does not replace the [vagrant](https://en.vagrantup.com/) product and is only a simple interface to simplify the deployment of virtual machines under HyperV, VirtualBox, Vmware Esxi.
+This program does not replace the [vagrant](https://www.vagrantup.com/) product and is only a simple interface to simplify the deployment of virtual machines under HyperV, VirtualBox, Vmware Esxi.
 
 
 ### Why use vagrantify, and how could it be useful ?
