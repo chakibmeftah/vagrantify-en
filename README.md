@@ -29,15 +29,27 @@ The main goal of the vagrantify project is to save time when deploying and confi
 
 
 ### Task 1 - Search
+Search for a VM to deploy
+
 <img src="https://user-images.githubusercontent.com/83987931/189533707-b21a12ac-a85d-4205-aebf-e91d245ff13f.png" width="300" height="250">
 
 ### Task 2 - Configuration
+Pre-deployment configuration
+-   RAM
+-   CPU
+
 <img src="https://user-images.githubusercontent.com/83987931/189533701-1085f78d-24e2-45b7-b347-7009796263cc.png" width="300" height="250">
 
 ### Task 3 - Provisionning
+Provisioning by commands or from a file :
+-   Linux / unix : (.sh)
+-   Windows (Powershell) : (.ps1)
+
 <img src="https://user-images.githubusercontent.com/83987931/189533705-5aaeba16-7a4d-450d-90c2-6ac2e7869a72.png" width="300" height="250">
 
 ### Task 4 - Deployment
+Start the deployment
+
 <img src="https://user-images.githubusercontent.com/83987931/189533706-03b5db50-6bc3-41ac-b32c-1c653aa51e39.png" width="300" height="250">
 
 
